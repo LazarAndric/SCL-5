@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{69BC113D-600C-C356-3704-3696BD3299F4}</ProjectGuid>
+    <ProjectGuid>{67824E17-2407-0EAA-52A8-3C339E7A21F3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PathCreator</AssemblyName>
@@ -75,13 +75,13 @@
     <Compile Include="Assets\PathCreator\Core\Runtime\Utility\MathUtility.cs" />
     <Compile Include="Assets\PathCreator\Core\Runtime\Utility\VertexPathUtility.cs" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -273,31 +273,31 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

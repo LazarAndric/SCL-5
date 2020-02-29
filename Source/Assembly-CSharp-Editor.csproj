@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{27C2657C-F692-DE0F-F85E-E149FBD04E72}</ProjectGuid>
+    <ProjectGuid>{3868765D-48DD-DE57-0049-9E3FAEBC4A52}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -87,79 +87,79 @@
     <None Include="Assets\Extensions\CloudOnce\Internal\Editor\Utils\GooglePlayGamesSetup\template-AndroidManifest.txt" />
     <None Include="Assets\Extensions\GooglePlayGames\Editor\m2repository\com\google\games\gpgs-plugin-support\maven-metadata.xml" />
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -351,34 +351,34 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.135.0">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/PROJEKTI/myself/gamedev/cr/Unity3D-Cars-master/Cars/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/PROJEKTI/GitHub/SCL-5/Source/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -737,15 +737,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{FE45A72E-CEE8-A4A5-B8F3-1A098BAE5CB7}</Project>
+      <Project>{9A11237F-ED63-616E-DBDE-C39399B84FC5}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="PathCreator.csproj">
-      <Project>{69BC113D-600C-C356-3704-3696BD3299F4}</Project>
+      <Project>{67824E17-2407-0EAA-52A8-3C339E7A21F3}</Project>
       <Name>PathCreator</Name>
     </ProjectReference>
     <ProjectReference Include="PathCreatorEditor.csproj">
-      <Project>{F6C5B109-D3BA-32F9-CDD8-9D2E32408187}</Project>
+      <Project>{35B1D881-739B-1DA3-9ADC-4EBE889453BF}</Project>
       <Name>PathCreatorEditor</Name>
     </ProjectReference>
   </ItemGroup>
